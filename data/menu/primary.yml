@@ -2,3 +2,7 @@ links:
   - blank: false
     title: Test menu
     url: /
+    links:
+      - blank: false
+        title: Test label
+        url: /
