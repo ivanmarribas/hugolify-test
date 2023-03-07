@@ -13,13 +13,13 @@ hero:
     darken: true
     background_image: true
   cta:
-    text: Lorem
+    text: boton 1
     url: /contact/
     blank: false
   cta_second:
     url: /contact/
     blank: false
-    text: Ipsum
+    text: boton 2
 blocks:
   - type: map
     background: false
